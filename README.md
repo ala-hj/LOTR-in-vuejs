@@ -22,6 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# LOTR-in-vuejs
-# LOTR-in-vuejs
-# LOTR-in-vuejs
+
+OR
+you can make your life easier and use VUE CLI GUI future which is drag and drop.
